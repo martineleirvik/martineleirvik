@@ -1,14 +1,6 @@
-### Hi there 👋
-
-<!--
-**martineleirvik/martineleirvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying front-end development at Noroff school of techology and digital media
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+### Hi there I'm Martine👋
+- 👩‍🎓 Recent graduate of [Noroff school of technology and digital media](https://www.noroff.no/) studying Front-end development
+- 🥞 Stack: Currently most experience with React, Sass and Styled Components
+- 📱 Passionate about UX design
+- 📚 Always up for learning something new
+- 👩‍⚕️ I also have a bachelor's degree as a Radiologic Technologist
