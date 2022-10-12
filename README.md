@@ -5,3 +5,6 @@
 - 📚 Always up for learning something new
 - 👩‍⚕️ I also have a bachelor's degree as a Radiologic Technologist
 - :star: Fun fact: My dream vacation would be to go to Egypt and experience the ancient history
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martineleirvik)](https://github.com/anuraghazra/github-readme-stats)
