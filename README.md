@@ -4,4 +4,4 @@
 - 📱 Passionate about UX design
 - 📚 Always up for learning something new
 - 👩‍⚕️ I also have a bachelor's degree as a Radiologic Technologist
-- :star: 
+- :star: Fun fact: My dream vacation would be to go to Egypt and experience the ancient history
